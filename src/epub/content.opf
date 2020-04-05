@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-morris/the-water-of-the-wondrous-isles</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-04-05T01:07:55Z</dc:date>
+		<meta property="dcterms:modified">2020-04-05T01:07:55Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,15 +33,17 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047114</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A beautiful woman escapes a life of servitude under an evil witch to adventure through a series of magical islands.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Water of the Wondrous Isles&lt;/i&gt; is a landmark in fantasy fiction. First published a year after Morris’s death in 1897 by Kelmscott Press—Morris’s own printing company—the novel follows Birdalone, a young girl who is stolen as a baby by a witch who takes her to serve in the woods of Evilshaw.&lt;/p&gt;
+			&lt;p&gt;After she encounters a wood fairy that helps her escape the witch’s clutches, Birdalone embarks on a series of adventures across the titular Wondrous Isles. These isles are used by Morris both as parables for contemporary Britain and as vehicles for investigating his radical socialist beliefs. As Birdalone travels through the isles she slowly evolves into the embodiment of the Victorian “new woman,” embracing hard physical labor, healthy exercise, higher education, socialist values, and financial freedom, while rejecting sexual exploitation, physical abuse of both women and children, and the restrictive sexual mores of the era. This makes her unique in the fantasy fiction of the era as one of the genre’s first examples of a strong female hero.&lt;/p&gt;
+			&lt;p&gt;This socialist-feminist allegory is presented in an Arthurian-style fantasy world complete with magic, witches, fairies, knights both chivalrous and evil, and castles (indeed, anyone doubting the allegorical nature of the work only needs to look at the name of the tale’s main redoubt: “The Castle of the Quest”). The language is purposefully archaic, reveling in vocabulary drawn from the language’s Anglo roots; and the prose is lent a hypnotic quality by its lack of quotation marks to offset dialog, and its short chapters characterized by a fairy-tale-narrative voice.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8778</dc:source>
 		<dc:source>https://books.google.com/books?id=ke4kAAAAMAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">147820</meta>
+		<meta property="se:reading-ease.flesch">69.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Water_of_the_Wondrous_Isles</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-morris_the-water-of-the-wondrous-isles</meta>
 		<dc:creator id="author">William Morris</dc:creator>
